@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/django-relationships/commit/3574799fe5c1971d9b910e6d06814ed8ef585f77",
       "git:hexsha": "3574799fe5c1971d9b910e6d06814ed8ef585f77",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/django-relationships/commit/d5edb8b0253eb5fd0bec5016b14546eb06f1062f",

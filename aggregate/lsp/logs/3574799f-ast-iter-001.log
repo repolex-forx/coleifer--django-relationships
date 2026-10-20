@@ -1,0 +1,7 @@
+[2026-10-20T20:16:25Z] === AST ITERATION 1 START | repo=coleifer/django-relationships sha=3574799f ===
+[2026-10-20T20:16:25Z] [iter=1] PHASE START: ast repo=coleifer/django-relationships sha=3574799f
+[2026-10-20T20:16:25Z] [iter=1] Building AST aggregate chunks
+[2026-10-20T20:16:38Z] [iter=1] AST chunks built count=1 triples=137519
+[2026-10-20T20:16:38Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/3574799fe5c1971d9b910e6d06814ed8ef585f77/.complete
+[2026-10-20T20:16:38Z] [iter=1] PHASE END: ast elapsed_s=13 elapsed_min=0.2
+[2026-10-20T20:16:38Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
