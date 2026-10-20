@@ -1,0 +1,11 @@
+{
+  "org": "coleifer",
+  "repo": "django-relationships",
+  "versions": [
+    {
+      "commit": "3574799fe5c1971d9b910e6d06814ed8ef585f77",
+      "tag": "",
+      "parsed_at": "2026-10-20T20:17:37.148137+00:00"
+    }
+  ]
+}
